@@ -9,6 +9,6 @@ hello git  222222
 ~git~~~~
 ~git~~~~
 ~git~~~~
-~git~~~~
+~git~~~~hot-fix merge test
 ~git~~~~
 ~git~~~~

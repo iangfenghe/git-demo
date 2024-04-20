@@ -1,7 +1,7 @@
 hello git  222222
 ~git 33333
 ~git~~~~
-~git~~~~master test
+~git~~~~master merge test
 ~git~~~~
 ~git~~~~
 ~git~~~~
